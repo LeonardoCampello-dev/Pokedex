@@ -14,7 +14,7 @@ const generateHTML = pokemons => pokemons.reduce((accumulator, { name, id, types
                     src="https://pokeres.bastionbot.org/images/pokemon/${id}.png"
                 />
                 <h2 class="card-title">
-                    ${id}. ${name}
+                    <span class="card-number-tag">#${id}</span> ${name}
                 </h2>
                 <p class="card-subtitle">
                     ${elementTypes.join(' - ')}

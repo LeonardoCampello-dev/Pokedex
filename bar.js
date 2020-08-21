@@ -2,9 +2,9 @@ const container = document.querySelector(".container")
 let bar = document.createElement("div")
 
 function createBarStyle(item) {
-    item.style.height = "4px"
+    item.style.height = "6px"
     item.style.width = "0"
-    item.style.backgroundColor = "#FECA1B"
+    item.style.backgroundColor = "#04D361"
     item.style.position = "fixed"
     item.style.top = "0"
     item.style.left = "0"
