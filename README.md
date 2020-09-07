@@ -1,3 +1,3 @@
 # BUILDING.. 🚧
 
-![pokedex](./.github/pokedex.png)
+![demo](./.github/demo.png)
