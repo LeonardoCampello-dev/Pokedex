@@ -1,3 +1,6 @@
-# BUILDING.. 🚧
+<h1 align="center">Pokedex 🐲</h1>
 
-![demo](./.github/demo.png)
+<h1 align="center">
+    <img src="./.github/demo.png" width="500">
+</h1>
+
